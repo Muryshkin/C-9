@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\bin\Debug\net6.0\A3task68.exe
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\bin\Debug\net6.0\A3task68.deps.json
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\bin\Debug\net6.0\A3task68.runtimeconfig.json
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\bin\Debug\net6.0\A3task68.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\bin\Debug\net6.0\A3task68.pdb
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.AssemblyInfo.cs
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\refint\A3task68.dll
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.pdb
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\A3task68.genruntimeconfig.cache
+C:\Users\Александр\Desktop\IT MD\Знакомство с языками программирования\C# D 9\A3task68\obj\Debug\net6.0\ref\A3task68.dll
